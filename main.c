@@ -8,7 +8,7 @@ int main()
     node *head = NULL;
     std s;
     int i;
-
+    
     while (1)
     {
         printf("\n<--- student Manager --->\n\n");
